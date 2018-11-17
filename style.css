@@ -1,0 +1,33 @@
+body {
+    font-family: 'Julius Sans One', sans-serif;
+    background-image: url("pattern.jpg");
+    background-repeat: repeat;
+}
+
+section {
+    justify-content: center;
+    max-width: 50rem;
+    margin: 0 auto;
+    width: 90vw;
+    border: solid black 1px;
+    height: 90vh;
+    border-radius: 0.5rem;
+    text-align: center;
+    background-color: white;
+}
+
+h1 {
+    margin: 1rem 1rem 3rem 1rem;
+}
+
+p {
+    margin: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
